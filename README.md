@@ -21,6 +21,7 @@ To explore smarter and safer digital payment experiences for students.
 Designed and documented by Jasleen Kaur
 
 ##Full Case Study
+
 View the detailed Notion Case Study here
 
 https://glowing-rib-edb.notion.site/Google-Pay-UX-Case-Study-34657abc392c8036b9bcc6c59f9aae97?source=copy_link
